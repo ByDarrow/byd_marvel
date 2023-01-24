@@ -10,7 +10,7 @@ function App() {
     <>
     <Helmet>
       <title>Marvel App | Darrow Code</title>\
-      <meta name="description" content="Marvel" />
+      <meta name="description" content="Marvel App | Darrow Code" />
     </Helmet>
      <Routes>
        <Route path='/'element={<Main/>}/>
